@@ -139,6 +139,7 @@ class MohammedEmad:
 ### 💡 Fun Fact
 ```python
 while alive:
+    breathe_python()
     if problem:
         coffee.drink() or sunset.watch() or beach.walk() or prayer.do()
         problem.solve()
